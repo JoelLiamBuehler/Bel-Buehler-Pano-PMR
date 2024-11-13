@@ -8,4 +8,4 @@ The data file includes three social security indicators on the level of "àrees 
 - **rental_assistance**: Prestacions d'ajut al lloguer
 
 The main treatment variable is calculated using data by Carles Pi i Sunyer Foundation
-- **enh_cooperation**: share of population covered by enhanced (horizontal / inter-municipal) coooperation in an ABSS
+- **enh_cooperation**: share of population covered by inter-municipal coooperation in an ABSS
