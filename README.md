@@ -1,4 +1,4 @@
-# Community-based outcomes of vertical and horizontal cooperation in social services
+# Community-based outcomes of horizontal (inter-municipal) cooperation in social services
 
 This repository includes material of the project "Community-based outcomes of vertical and horizontal cooperation in social services". 
 
